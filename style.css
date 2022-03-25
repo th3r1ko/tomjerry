@@ -1,0 +1,8 @@
+* {
+  cursor: url("mouse.png"), auto;
+}
+.catImg {
+  width: 150px;
+  height: 150px;
+  transition: 0.2s;
+}
